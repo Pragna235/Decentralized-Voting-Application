@@ -15,4 +15,21 @@
 -     npm install
 - Create a `.env` file and add your `API_KEY` and `PRIVATE_KEY` variables
 -     npx hardhat
+- Add your `Voting.sol` smart contract to the `contract` folder
+- Make changes in the `deploy.js` file
+-     npx hardhat compile
+- Make changes in the `hardhat.config.js`
+-     npx hardhat run --network sepolia scripts/deploy.js
+- Paste the obtained smart contract address in `CONTRACT_ADDRESS` variable of the `.env` file
+
+
+- Go to `cmd`
+-     npx create-react-app react-voting-app .`
+- Navigate to the React app folder
+-     cd react-voting-app
+- Initiate the VSCode of this folder
+-     code .
+- Make changes in the `App.js` by removing the header tag and the logo
+- Make changes in the code of the folders as required
+-     npm install ethers@5.7.1
 - 
