@@ -39,3 +39,9 @@ https://github.com/Pragna235/Decentralized-Voting-Application/tree/main (Files)
 - Make changes in the code of the folders as required
 -     npm install ethers@5.7.1
 - Make all necessary changes in the code and run 'em
+
+## Deploy on netlify.com
+- Navigate to the react-app folder
+-     npm run build
+- Upload the `build` folder manually on `netlify.com`
+- Change the domain name adn voila...
