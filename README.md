@@ -36,4 +36,4 @@ https://github.com/Pragna235/Decentralized-Voting-Application/tree/main (Files)
 - Make changes in the `App.js` by removing the header tag and the logo
 - Make changes in the code of the folders as required
 -     npm install ethers@5.7.1
-- 
+- Make all necessary changes in the code and run 'em
