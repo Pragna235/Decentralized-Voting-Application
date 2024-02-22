@@ -32,7 +32,7 @@ https://github.com/Pragna235/Decentralized-Voting-Application/tree/main (Files)
 
 
 - Go to `cmd`
--     npx create-react-app react-voting-app .`
+-     npx create-react-app react-voting-app .
 - Navigate to the React app folder
 -     cd react-voting-app
 - Initiate the VSCode of this folder
