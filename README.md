@@ -2,7 +2,7 @@
 
 ## dApp implementing Blockchain
 
-* Live Project Current Deployment 9Validity 1 year) - https://voting-decentralized-app235.netlify.app/
+* Live Project Current Deployment (Validity 1 year) - https://voting-decentralized-app235.netlify.app/
 * Live Project Deployment 1 - https://voting-dapp235.netlify.app/
 
 * Project Files - https://github.com/Pragna235/Decentralized-Voting-Application/tree/master
