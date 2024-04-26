@@ -6,7 +6,7 @@ import Connected from './Components/Connected'
 import './App.css';
 
 function App() {
-  const [provider,setProvider] = useState(null);
+  const [provider,setProvider] = useState(null);     
   const [account,setAccount] = useState(null);
   const[isConnected,setIsConnected] = useState(false);
 
