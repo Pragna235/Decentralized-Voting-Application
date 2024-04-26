@@ -8,7 +8,7 @@ const Connected = (props) => {
             
         </div>
     )
-}
+}     
 
 
 
